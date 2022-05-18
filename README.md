@@ -4,6 +4,10 @@
 
 ### A Telegram Video CompressorBot  
 
+# Deploy %o Railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/KpNB-M?referralCode=yQ3BuL)
+
 - it compress videos with negligible Quality change.
 - u can generate sample Compressed videos nd screenshots too.
 - u can set custom video name nd Thumbnail.
